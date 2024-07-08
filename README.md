@@ -1,3 +1,3 @@
 api study
 ===========
-for studing api
+for study api
