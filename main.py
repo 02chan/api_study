@@ -2,8 +2,7 @@ import discord
 import asyncio
 import requests
 import json
-from tokens import lostark_token
-from tokens import discord_token
+from tokens import lostark_token, discord_token
 from discord.ext import commands
 
 intents = discord.Intents.default()
